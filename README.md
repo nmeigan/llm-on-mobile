@@ -1,6 +1,6 @@
-# LLM on Mobile — Sovereign AI Agent in Your Pocket
+# What Every CTO Gets Wrong About the Cost of Intelligence — Sovereign AI on Any Device
 
-> **Run a fully local, offline AI coding, reasoning, and chat agent on your Android phone. Zero tokens. Zero cloud. Zero ongoing cost.**
+> **Most organisations are stalling on AI because the token bill is unpredictable and the ROI isn't quantifiable. This project flips the problem — a full AI coding, reasoning, and chat agent running on an Android phone. Zero cloud. Zero tokens. Zero ongoing cost.**
 
 ---
 
