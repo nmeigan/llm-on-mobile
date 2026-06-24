@@ -146,7 +146,7 @@ For 8 GB RAM devices: use Q4_K_M. For 12 GB RAM devices: Q6_K is stable.
 **Enun Ismath Naina Mohamed**
 Chief Data & AI Officer | AI Architect | Enterprise Intelligence Leader
 
-[LinkedIn](https://www.linkedin.com/in/enunismathnainamohamed)
+[LinkedIn](https://www.linkedin.com/in/enun)
 
 ---
 
